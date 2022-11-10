@@ -15,7 +15,7 @@ Ayarlar
 
 <br>
 
-**[mklement0](https://stackoverflow.com/users/45375/mklement0)** PowerShell scripti için makalesinden yardım alınmıştır.
+PowerShell scripti için **[mklement0](https://stackoverflow.com/users/45375/mklement0)** makalesinden yardım alınmıştır.
 
 > [https://stackoverflow.com/questions/57083140/have-file-explorer-current-working-directory-passed-to-powershell-script](https://stackoverflow.com/questions/57083140/have-file-explorer-current-working-directory-passed-to-powershell-script)
 
