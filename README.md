@@ -9,7 +9,7 @@ Ayarlar
 - Windows PowerShell kısayol özelliklerinden başlatma yeri bilgisini temizle.
 - Windows PowerShell kısayol özelliklerinden kısayol tuşu ataması yap.
 
-> **Kısayol :** C:\Users\???\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Windows PowerShell
+> **Kısayol :** C:\Users\\???\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Windows PowerShell
 
 > **Hedef :** %SystemRoot%\system32\WindowsPowerShell\v1.0\powershell.exe -noexit -file C:\Projects\app_quickterminal\cd.ps1
 
