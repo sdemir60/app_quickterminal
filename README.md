@@ -1,4 +1,4 @@
-# app_quickterminal
+# quickTerminal
 Atanan kısayol tuşu ile son aktif dizini terminalde aç.
 
 
